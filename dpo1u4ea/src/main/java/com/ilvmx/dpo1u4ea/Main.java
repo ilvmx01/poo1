@@ -8,10 +8,10 @@ package com.ilvmx.dpo1u4ea;
 /**
  *
  * @author israellaravega
- * UNADM
+ * 
  * Programación Orientada a Objetos 1
- * Grupo: DS-DPO1-2401-B2-002
- * Unidad 4: Evidencia de Aprendizaje 
+ * 
+ * 
  *
  */
 import java.util.Scanner; //importamos libreria para usar la funcion de escaneo de teclado
